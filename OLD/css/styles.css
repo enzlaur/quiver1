@@ -155,7 +155,7 @@ p {
 }
 
 .text-right{
-    text-align: right !important;
+    text-align: right;
 }
 .text-left {
     text-align: left !important;
